@@ -19,7 +19,8 @@ https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
   6. Pandas
   7. Ipython
   
-The code is ready to run. Select any model form the function Model_Selection(...) to get
+## How to run the code:
+Select any model form the function Model_Selection(...) to get
 the result corresponding to that model. To run the code, execute the following
 command:-
 
@@ -30,5 +31,6 @@ python prediction_code.py
 [//]: contributor-faces
 
 <a href="https://github.com/anushika99">Anushika Gupta</a>
+<a href="https://github.com/budhirajachinmay">Chinmay</a>
 
 [//]: contributor-faces
