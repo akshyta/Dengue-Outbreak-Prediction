@@ -31,6 +31,8 @@ python prediction_code.py
 [//]: contributor-faces
 
 <a href="https://github.com/anushika99">Anushika Gupta</a>
+<br>
 <a href="https://github.com/budhirajachinmay">Chinmay</a>
-
+<br>
+<a href="https://github.com/anushika99">Akshyta Katyal</a>
 [//]: contributor-faces
