@@ -34,4 +34,4 @@ python prediction_code.py
 <br>
 <a href="https://github.com/budhirajachinmay">Chinmay</a>
 <br>
-<a href="https://github.com/anushika99">Akshyta Katyal</a>
+<a href="https://github.com/akshyta">Akshyta Katyal</a>
