@@ -24,3 +24,11 @@ the result corresponding to that model. To run the code, execute the following
 command:-
 
 python prediction_code.py
+
+## Contributors
+
+[//]: contributor-faces
+
+<a href="https://github.com/ngryman"><img src="https://avatars.githubusercontent.com/u/892048?v=3" title="ngryman" width="80" height="80"></a>
+
+[//]: contributor-faces
