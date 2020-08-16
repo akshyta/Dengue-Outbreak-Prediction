@@ -29,6 +29,6 @@ python prediction_code.py
 
 [//]: contributor-faces
 
-<a href="https://github.com/ngryman"><img src="https://avatars.githubusercontent.com/u/892048?v=3" title="ngryman" width="80" height="80"></a>
+<a href="https://github.com/anushika99">Anushika Gupta</a>
 
 [//]: contributor-faces
