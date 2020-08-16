@@ -35,5 +35,3 @@ python prediction_code.py
 <a href="https://github.com/budhirajachinmay">Chinmay</a>
 <br>
 <a href="https://github.com/anushika99">Akshyta Katyal</a>
-<br>
-[//]: contributor-faces
