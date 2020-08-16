@@ -1,16 +1,3 @@
-# Group No. 12
-# Chinmay 2017274
-# Akshyta Katyal 2017216
-# Anushika Gupta 2017135
-'''
-    Reference:- https://scikit-learn.org/stable/modules/generated/sklearn.impute.IterativeImputer.html#sklearn.impute.IterativeImputer
-                https://stackoverflow.com/questions/37161563/how-to-graph-grid-scores-from-gridsearchcv
-                https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b
-                
-'''
-
-"""# Import Dataset"""
-
 import pandas as pd
 import numpy as np
 from sklearn.experimental import enable_iterative_imputer
@@ -604,22 +591,6 @@ def main():
 
     # Run Model Selector
     Model = Model_Selection(X_train, Y_train, X_val,Y_val)
-
-    # ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~End~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-    # PredictForTest(Impute_Model, Model, selector)
-
-    # Fit the baseline
-    # Fit_Baseline(X_train, Y_train, X_val, Y_val)
-    # Custom Gradient Descent
-    # GradientDescent(X_train, Y_train, X_val, Y_val)
-    
-#     print(Model)
-    # res = Model.predict"(X_val)
-    # print((res))result_normalizer
-#     X_test,test_df =GetTest()
-#     print(X_test)
-#     PredictForTest(Impute_Model, Model,X_test,test_df)
 
 if __name__ == '__main__':
     main()
