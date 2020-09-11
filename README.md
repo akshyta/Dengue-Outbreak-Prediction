@@ -7,8 +7,8 @@ https://www.drivendata.org/competitions/44/dengai-predicting-disease-spread/
 
 ## System Requirements:
 
-  1. Python 3.0 or higher
-  2. A system with 12gb ram or higher
+  1. Python 3.0 or above
+  2. A system with 12gb or above RAM
   
 ##  Libraries required:
   1. Sci-kit learn
